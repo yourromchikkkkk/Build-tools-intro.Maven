@@ -1,0 +1,8 @@
+*.gitattributes
+*.iml
+/Project/.idea
+/LibraryProject/.idea
+/ParentProject/.idea
+/Project/target
+/LibraryProject/target
+
